@@ -9,4 +9,4 @@ AZURE_OPENAI_ENDPOINT=https://xxxxxxxxxxxxxxx/
 ```
 ## Execute jupyter notebook
 Go through [main.ipynb](https://github.com/karthik-skr/meeting_trasnscript_summarizer/blob/main/main.ipynb)
-# meeting_trasnscript_summarizer
+
