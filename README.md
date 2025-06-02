@@ -1,4 +1,4 @@
-# Real-Time Market Sentiment Analyzer Using LangChain Chains
+# Meeting Transcript Summarizer and Action Items Extractor
 ## Prerequisites:
 - create a Open AI service in the azure portal
 - And Deploy a `gpt-4.1-mini` in Azure AI Foundry
